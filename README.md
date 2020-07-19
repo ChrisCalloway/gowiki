@@ -1,2 +1,2 @@
-# raspberrypi_app
-Test application for raspberry pi
+# gowiki
+Test application for raspberry pi to run go server
